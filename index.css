@@ -1,0 +1,24 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUJ12Wy4zA9g0onmzhkxEktBcUk6h_o7c10A&amp;s" );
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+
+}
+#time {
+    font-size: 48px;
+    margin:75px 10%;
+    background-color: white;
+
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 75px 10px;
+}
+#laps {
+    margin-top: 20px;
+    text-align: left;
+    max-width: 300px;
+    margin: 0 auto;
+}
